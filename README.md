@@ -1,6 +1,6 @@
-# Amazon Sales Dashboard
+# SuperStore Sales Dashboard
 
-This repository contains a Power BI dashboard analyzing Amazon sales data by region, category, payment mode, States and more. This project focuses on the sales by different region for the year 2019/2020, showcasing insights into profit, quantity, and Average delivery days etc.
+This repository contains a Power BI dashboard analyzing SuperStore sales data by region, category, payment mode, States and more. This project focuses on the sales by different region for the year 2019/2020, showcasing insights into profit, quantity, and Average delivery days etc.
 
 
 # Features
@@ -26,5 +26,6 @@ This repository contains a Power BI dashboard analyzing Amazon sales data by reg
 
 Below is the ScreenShot Provided
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/3c69e898-9014-45f6-a9c5-7d1e7aa0d0c5" />
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/229739f4-0484-49ab-b188-45d54b373512" />
+
 
